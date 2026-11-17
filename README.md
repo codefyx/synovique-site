@@ -1,4 +1,4 @@
-# SYNOVIQUE deployable website
+# Synovique deployable website
 
 Static responsive website. No build step, package manager or server required.
 
